@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_Back"><![CDATA[<--]]></string>
+    <string name="button_Num1">1</string>
+    <string name="button_Num2">2</string>
+    <string name="button_Num3">3</string>
+    <string name="button_Num4">4</string>
+    <string name="button_Num5">5</string>
+    <string name="button_Num6">6</string>
+    <string name="button_Num7">7</string>
+    <string name="button_Num8">8</string>
+    <string name="button_Num9">9</string>
+    <string name="button_Num0">0</string>
+    <string name="button_Add">+</string>
+    <string name="button_Subtract">-</string>
+    <string name="button_Multiply">*</string>
+    <string name="button_Divide">/</string>
+    <string name="button_Clear">C</string>
+    <string name="button_Result">=</string>
+
+</resources>
